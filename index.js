@@ -24,7 +24,9 @@ function logWhisper(word){
 
 const sayHiToGrandma = words =>{
   
-  
+  if(words === words.toLowerCase()){
+    return 'I can\'t hear you!'
+  }
   
 }
 
