@@ -32,8 +32,14 @@ const sayHiToGrandma = words =>{
 
 function sayHiToGradma(word){
   
-  if()
+  if(word === word.toUpperCase()){
+    return 'YES INDEED!'
+  }
   
+}
+
+function sayHiToGrandma(word){
+  if(word)
 }
 
 
