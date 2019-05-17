@@ -38,8 +38,10 @@ function sayHiToGradma(word){
   
 }
 
-function sayHiToGrandma(word){
-  if(word)
+function sayHiToGrandma(words){
+  if(words === 'I love you, Grandma.'){
+    return 'I love you, too.'
+  }
 }
 
 
