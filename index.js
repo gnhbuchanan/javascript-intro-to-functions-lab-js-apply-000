@@ -28,21 +28,17 @@ const sayHiToGrandma = words =>{
     return 'I can\'t hear you!'
   }
   
-}
-
-function sayHiToGradma(word){
-  
   if(word === word.toUpperCase()){
     return 'YES INDEED!'
   }
   
-}
-
-function sayHiToGrandma(words){
-  if(words === 'I love you, Grandma.'){
+   if(words === 'I love you, Grandma.'){
     return 'I love you, too.'
   }
+  
 }
+
+
 
 
 
