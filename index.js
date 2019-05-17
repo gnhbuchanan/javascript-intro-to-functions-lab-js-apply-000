@@ -28,7 +28,7 @@ const sayHiToGrandma = words =>{
     return 'I can\'t hear you!'
   }
   
-  if(word === words.toUpperCase()){
+  if(words === words.toUpperCase()){
     return 'YES INDEED!'
   }
   
