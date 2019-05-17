@@ -30,6 +30,11 @@ const sayHiToGrandma = words =>{
   
 }
 
+function sayHiToGradma(word){
+  
+  if()
+  
+}
 
 
 
